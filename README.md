@@ -3,7 +3,7 @@
 1) Download the text file to your home folder.
 
 ```console
-$ curl https://raw.github.com/aureliojargas/css-grep/master/css-grep.txt > ~/css.txt
+$ curl -L https://raw.github.com/aureliojargas/css-grep/master/css-grep.txt > ~/css.txt
 ```
 
 2) Create a nice Bash alias.
