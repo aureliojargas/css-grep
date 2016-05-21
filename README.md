@@ -10,7 +10,7 @@ $ curl -L https://raw.github.com/aureliojargas/css-grep/master/css-grep.txt > ~/
 
 
 ```console
-$ alias css='cat ~/css.txt | grep --color=auto -i '
+$ alias css='cat ~/css.txt | grep --color=auto -i'
 ```
 
 3) Enjoy your instant CSS reference with the new `css` command.
